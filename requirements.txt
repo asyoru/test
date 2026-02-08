@@ -1,0 +1,2 @@
+# pygame-ce — форк pygame с поддержкой Python 3.14 (импорт: import pygame)
+pygame-ce>=2.5.0
